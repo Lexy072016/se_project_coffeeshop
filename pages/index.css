@@ -8,10 +8,30 @@
 }
 
 .header {
+  padding: 30px 60px 80px;
+  background-color: #fff;
+  background-image: url(../images/se_project_2_files/se_project_2_files/background_header.svg)
+    no-repeat;
+  background-size: cover;
+  height: 800px;
 }
 
-.content {
+.header__title {
 }
 
-.footer {
+.header__description {
+}
+
+.header__image {
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.nav__links {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
 }
