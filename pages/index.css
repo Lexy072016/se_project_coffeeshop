@@ -137,6 +137,14 @@
   list-style-type: none;
 }
 
+iframe {
+  width: 480px;
+  height: 273px;
+  border: none;
+  margin: auto;
+  display: block;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
