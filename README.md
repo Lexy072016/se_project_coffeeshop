@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I added extra features to the checkbox like the image of the check mark and added the cursor pointer. I think it just made the experience better overall.
+I would add some images of some of the food and beverage choices to the menu page to give the user a better idea of what products we have.

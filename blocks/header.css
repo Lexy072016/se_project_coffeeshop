@@ -6,8 +6,10 @@
   flex-direction: column;
   background-image: url(../images/se_project_2_files/se_project_2_files/background_header.svg);
   background-size: cover;
+  background-position: center;
   position: relative;
   color: #fff;
+  z-index: 1;
 }
 
 .header__title {
@@ -48,6 +50,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
@@ -59,7 +62,7 @@
 
 .header__paragraph {
   margin: 0;
-  font-family: "Inter";
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
